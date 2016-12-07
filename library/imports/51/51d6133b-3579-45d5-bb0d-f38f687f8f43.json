@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Objetos_Roll_Fish_SinFondo_01",
+    "texture": "eea596f3-4b58-4b1c-9e9c-3f3be079ef35",
+    "atlas": "",
+    "rect": [
+      136,
+      101,
+      734,
+      694
+    ],
+    "offset": [
+      14,
+      -14
+    ],
+    "originalSize": [
+      978,
+      868
+    ]
+  }
+}

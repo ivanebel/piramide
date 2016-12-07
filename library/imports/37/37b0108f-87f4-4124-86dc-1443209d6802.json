@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00001",
+    "texture": "a20df9d3-254a-408c-819b-fbb79f73e3d0",
+    "atlas": "c0aa4aa8-197a-45a2-89ad-888544e8066c",
+    "rect": [
+      195,
+      0,
+      195,
+      324
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      195,
+      324
+    ]
+  }
+}

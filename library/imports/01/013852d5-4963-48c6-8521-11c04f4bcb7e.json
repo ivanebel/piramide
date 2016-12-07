@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PIRAMIDE_CAVERNA_01_Fondo_Base_01_0000_Layer-1",
+    "texture": "14140635-cebb-4703-a623-c40a300802ce",
+    "atlas": "",
+    "rect": [
+      178,
+      1547,
+      190,
+      97
+    ],
+    "offset": [
+      -687,
+      -434.5
+    ],
+    "originalSize": [
+      1920,
+      2322
+    ]
+  }
+}

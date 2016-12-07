@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;AAUR,yBAAiB,EAAE,EAAE,CAAC,SAAS;KAClC;;;AAGD,UAAM,EAAE,kBAAY;;AAEhB,UAAE,CAAC,QAAQ,CAAC,YAAY,CAAC,SAAS,CAAC,CAAC;AACpC,UAAE,CAAC,QAAQ,CAAC,YAAY,CAAC,aAAa,CAAC,CAAC;AACxC,UAAE,CAAC,QAAQ,CAAC,YAAY,CAAC,KAAK,CAAC,CAAC;AAChC,UAAE,CAAC,QAAQ,CAAC,YAAY,CAAC,QAAQ,CAAC,CAAC;AACnC,UAAE,CAAC,QAAQ,CAAC,YAAY,CAAC,OAAO,CAAC,CAAC;AAClC,UAAE,CAAC,QAAQ,CAAC,YAAY,CAAC,QAAQ,CAAC,CAAC;;AAGnC,UAAE,CAAC,WAAW,CAAC,SAAS,CAAC,IAAI,CAAC,iBAAiB,CAAC,CAAC;;AAEjD,YAAI,CAAC,YAAY,CAAC,YAAW;AAAE,cAAE,CAAC,QAAQ,CAAC,SAAS,CAAC,MAAM,CAAC,CAAC;SAAE,EAAG,CAAC,CAAC,CAAC;KAExE;;CAMJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // foo: {\r\n        //    default: null,\r\n        //    url: cc.Texture2D,  // optional, default is typeof default\r\n        //    serializable: true, // optional, default is true\r\n        //    visible: true,      // optional, default is true\r\n        //    displayName: 'Foo', // optional\r\n        //    readonly: false,    // optional, default is false\r\n        // },\r\n        // ...\r\n        audio_Music_Intro: cc.AudioClip\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n        \r\n        cc.director.preloadScene('outside');\r\n        cc.director.preloadScene('transInside');\r\n        cc.director.preloadScene('end');\r\n        cc.director.preloadScene('inside');\r\n        cc.director.preloadScene('bonus');\r\n        cc.director.preloadScene('double');\r\n        \r\n        \r\n        cc.audioEngine.playMusic(this.audio_Music_Intro);\r\n        \r\n        this.scheduleOnce(function() { cc.director.loadScene('idle'); } , 3);\r\n        \r\n    },\r\n\r\n    // called every frame, uncomment this function to activate update callback\r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\n"
+  ]
+}

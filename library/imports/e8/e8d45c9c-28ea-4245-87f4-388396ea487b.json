@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Salto_Hole_01_00016",
+    "texture": "fcf37b45-d3fb-4ada-9ec2-a17302168c94",
+    "atlas": "f13a5892-f153-4f2f-a3de-e5cdd4973ae4",
+    "rect": [
+      1449,
+      341,
+      207,
+      341
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      207,
+      341
+    ]
+  }
+}

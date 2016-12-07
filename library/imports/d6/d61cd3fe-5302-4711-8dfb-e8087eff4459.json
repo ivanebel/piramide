@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pantalla_Subida_03_0003_4",
+    "texture": "8ac319a8-978f-432c-b319-4fa74f34e92f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      890,
+      442
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      890,
+      442
+    ]
+  }
+}

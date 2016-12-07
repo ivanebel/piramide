@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jump24",
+    "texture": "a5055743-ac3a-49fe-bd33-30b4312faad5",
+    "atlas": "",
+    "rect": [
+      10,
+      18,
+      1834,
+      1101
+    ],
+    "offset": [
+      -9,
+      -6
+    ],
+    "originalSize": [
+      1872,
+      1125
+    ]
+  }
+}

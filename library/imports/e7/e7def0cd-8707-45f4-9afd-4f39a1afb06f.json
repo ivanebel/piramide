@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PIRAMIDE_CAVERNA_Animacion_Cilindro_Capa_1",
+    "texture": "85de47f0-cec1-42c0-9662-9d1b15e72206",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      462,
+      633
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      462,
+      633
+    ]
+  }
+}

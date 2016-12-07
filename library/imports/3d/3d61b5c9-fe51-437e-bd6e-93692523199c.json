@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Poses_00034",
+    "texture": "b9a83044-72f6-469e-a13d-af17aea2e14e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      275,
+      218
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      275,
+      218
+    ]
+  }
+}

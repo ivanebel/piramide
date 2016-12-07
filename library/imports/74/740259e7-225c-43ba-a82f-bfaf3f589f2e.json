@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Objetos_Roll_Snake_SinFondo_01",
+    "texture": "d7ff9a60-8b7b-4b73-8551-c20df663e9fa",
+    "atlas": "",
+    "rect": [
+      241,
+      83,
+      561,
+      711
+    ],
+    "offset": [
+      32.5,
+      -4.5
+    ],
+    "originalSize": [
+      978,
+      868
+    ]
+  }
+}

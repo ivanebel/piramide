@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Objetos_Roll_Cat_SinFondo_01",
+    "texture": "81c92820-eedd-44d3-a122-dd6229b68bf4",
+    "atlas": "",
+    "rect": [
+      51,
+      102,
+      891,
+      705
+    ],
+    "offset": [
+      7.5,
+      -20.5
+    ],
+    "originalSize": [
+      978,
+      868
+    ]
+  }
+}

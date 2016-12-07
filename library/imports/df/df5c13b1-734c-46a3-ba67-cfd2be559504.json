@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_MascaraCOMP_03_FLAT_0006_Dientes-Sup_Cut",
+    "texture": "e0dc9d71-5afd-4fea-a46e-d5646f327295",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      589,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      589,
+      110
+    ]
+  }
+}

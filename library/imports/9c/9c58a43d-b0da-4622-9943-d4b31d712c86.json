@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PIRAMIDE_CAVERNA_08_Mandibulas_Inferiores_Mascaras_08_Cut",
+    "texture": "9fc803e4-d69b-47dd-9573-6fc4e24249a1",
+    "atlas": "",
+    "rect": [
+      230,
+      5,
+      1445,
+      121
+    ],
+    "offset": [
+      -7.5,
+      0.5
+    ],
+    "originalSize": [
+      1920,
+      132
+    ]
+  }
+}

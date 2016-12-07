@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "InsideJumpDownLeft",
+    "texture": "b6548986-88a3-403d-8ceb-36382f6c60f2",
+    "atlas": "",
+    "rect": [
+      22,
+      22,
+      1870,
+      623
+    ],
+    "offset": [
+      -18,
+      -9.5
+    ],
+    "originalSize": [
+      1950,
+      648
+    ]
+  }
+}

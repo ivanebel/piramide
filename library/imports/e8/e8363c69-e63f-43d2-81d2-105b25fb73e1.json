@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BonusLuzAntorchas",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "Luz-Antorcha-Left": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 45
+            },
+            {
+              "frame": 0.5,
+              "value": 20
+            },
+            {
+              "frame": 0.7166666666666667,
+              "value": 45
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 20
+            },
+            {
+              "frame": 1,
+              "value": 45
+            },
+            {
+              "frame": 1.6833333333333333,
+              "value": 30
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 45
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": 25
+            },
+            {
+              "frame": 3,
+              "value": 45
+            }
+          ],
+          "skewX": [
+            {
+              "frame": 0,
+              "value": -1
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1.3,
+              "value": 1
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": -1
+            },
+            {
+              "frame": 2.5,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": -1
+            }
+          ]
+        }
+      },
+      "Luz-Antorcha-Right": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 50
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 25
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 22
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 50
+            },
+            {
+              "frame": 2.2,
+              "value": 30
+            },
+            {
+              "frame": 2.5,
+              "value": 50
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 20
+            },
+            {
+              "frame": 3,
+              "value": 50
+            }
+          ],
+          "skewX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.7833333333333334,
+              "value": -1
+            },
+            {
+              "frame": 3,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PIRAMIDE_CAVERNA_06_Bloques_06_Cut",
+    "texture": "1402dba0-9cb1-4691-b7a6-fdd060e5ab39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      728,
+      1141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      728,
+      1141
+    ]
+  }
+}

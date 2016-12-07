@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Coin_Box.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "L01": {
+      "__uuid__": "4bb43bbd-d272-4605-a148-a89441692a01"
+    },
+    "L02": {
+      "__uuid__": "5354bb1c-1085-4aa2-91b1-54cffc72a155"
+    },
+    "L03": {
+      "__uuid__": "6f6e07fc-fc7d-43a9-8810-9612b359bdfc"
+    },
+    "L04": {
+      "__uuid__": "4a5abcc5-e44b-42b0-aac3-a33c246ea46d"
+    },
+    "L05": {
+      "__uuid__": "2fd3592b-3838-4a70-b580-87ad43ddec81"
+    },
+    "L06": {
+      "__uuid__": "9826c15f-f83f-489f-86fe-7e406d8b163d"
+    },
+    "L07": {
+      "__uuid__": "023b3eb3-eb21-4755-805f-98fc948d6d62"
+    },
+    "L08": {
+      "__uuid__": "89001035-cb48-4579-bce7-a92e5d941d08"
+    },
+    "L09": {
+      "__uuid__": "e8e6f557-b9df-4511-9d23-500ef330c009"
+    },
+    "L10": {
+      "__uuid__": "cd2fee4e-9987-4258-a0af-2abb82465cbc"
+    },
+    "L11": {
+      "__uuid__": "7f42fe3c-9acc-467d-a9ca-40fda81fdb0f"
+    },
+    "L12": {
+      "__uuid__": "afa14bc1-7909-4559-93b3-bd7799e12df3"
+    },
+    "L13": {
+      "__uuid__": "772aede1-7df4-4cfd-a41b-fe97bc9b441b"
+    },
+    "L14": {
+      "__uuid__": "77163c72-0230-456a-87d9-17c2ff5dcfb7"
+    },
+    "L15": {
+      "__uuid__": "4d23ef9e-bcad-4458-a49a-b570d1420823"
+    },
+    "L16": {
+      "__uuid__": "81367d85-0588-48fa-bf71-32fefb3646f2"
+    },
+    "L17": {
+      "__uuid__": "241131a8-3ebf-44dc-88ff-37e36ba7c308"
+    },
+    "L18": {
+      "__uuid__": "40c5c7ab-695e-455a-b32b-e31dbafbda39"
+    },
+    "L19": {
+      "__uuid__": "b6af512f-de2e-4527-a893-54fb668310fa"
+    },
+    "L20": {
+      "__uuid__": "4f8b81fb-b738-4351-88ba-7ede97f48084"
+    },
+    "L21": {
+      "__uuid__": "5a6ec5bf-89ad-4e0a-bced-a72803e17e93"
+    },
+    "L22": {
+      "__uuid__": "e82b2c34-5030-415f-9aaf-46ab2ea33529"
+    },
+    "L23": {
+      "__uuid__": "0e3851a4-f050-4106-a54e-920faeab40bd"
+    },
+    "L24": {
+      "__uuid__": "efdbe537-ffc1-4c1f-bfb8-8da80e7655e8"
+    }
+  }
+}

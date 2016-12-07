@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pantalla_Subida_Dientes_Inferiores_01_Cut",
+    "texture": "c55c07a9-f763-46e8-8179-ecf019de78d9",
+    "atlas": "",
+    "rect": [
+      12,
+      5,
+      709,
+      190
+    ],
+    "offset": [
+      2.5,
+      0.5
+    ],
+    "originalSize": [
+      728,
+      201
+    ]
+  }
+}

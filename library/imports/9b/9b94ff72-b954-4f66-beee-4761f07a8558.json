@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Caida-cilindro_MotionBlur_0000_1_00012",
+    "texture": "d3f90fbe-073a-46b8-a270-d3b97abecee2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      1032
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      255,
+      1032
+    ]
+  }
+}

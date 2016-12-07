@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ExplorerOutsideIdleL",
+    "texture": "18296b72-1590-483f-97db-6593e0301c99",
+    "atlas": "",
+    "rect": [
+      8,
+      11,
+      1942,
+      295
+    ],
+    "offset": [
+      0.5,
+      -1.5
+    ],
+    "originalSize": [
+      1957,
+      314
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_MascaraCOMP_03_FLAT_0002_Glow-Plumas-frente_Cut",
+    "texture": "a4f126bb-76f1-4e63-92c2-964f480672d5",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      440,
+      339
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      448,
+      343
+    ]
+  }
+}

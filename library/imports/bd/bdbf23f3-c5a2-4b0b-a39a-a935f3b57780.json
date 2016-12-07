@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Glow_Manijas_2",
+    "texture": "a3afd4a9-7051-44f4-8210-b45cec84fa99",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      386,
+      387
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      386,
+      387
+    ]
+  }
+}

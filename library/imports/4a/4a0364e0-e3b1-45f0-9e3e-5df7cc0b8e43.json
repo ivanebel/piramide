@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Explosion_Die_01_Done_00013",
+    "texture": "05ef6b1d-69f2-42dd-a370-66a5a885be35",
+    "atlas": "189ab113-ad62-4c57-89b6-e7809c7e5f73",
+    "rect": [
+      1752,
+      203,
+      292,
+      203
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      292,
+      203
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BonusDientes",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Roll_MascaraCOMP_03_FLAT_0006_Dientes-Sup_Cut": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 31.8
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 124
+            }
+          ]
+        }
+      },
+      "Roll_MascaraCOMP_03_FLAT_0007_Dientes-Inf_Cup": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -78.3
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -174
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

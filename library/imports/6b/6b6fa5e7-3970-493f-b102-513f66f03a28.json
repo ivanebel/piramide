@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ExplorerOutsideIdleR.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Idle-Pose-1°-Pantalla_0000_10": {
+      "__uuid__": "bf7cfc5a-cfbb-4158-a555-58e709125d28"
+    },
+    "Idle-Pose-1°-Pantalla_0001_9": {
+      "__uuid__": "19b0c2a3-65da-48b0-af79-e3ff9f40c9b7"
+    },
+    "Idle-Pose-1°-Pantalla_0002_8": {
+      "__uuid__": "38bef9b5-6aee-4497-8f82-3ca64672630b"
+    },
+    "Idle-Pose-1°-Pantalla_0003_7": {
+      "__uuid__": "fc8ecd4d-41cc-4a66-985f-09f194174683"
+    },
+    "Idle-Pose-1°-Pantalla_0004_6": {
+      "__uuid__": "abf36437-74c5-4674-a93a-c6a92f110642"
+    },
+    "Idle-Pose-1°-Pantalla_0005_5": {
+      "__uuid__": "3f853295-b090-4e9f-819c-fa88d88693a4"
+    },
+    "Idle-Pose-1°-Pantalla_0006_4": {
+      "__uuid__": "aed78c3f-9978-477a-919d-ee92d79102dd"
+    },
+    "Idle-Pose-1°-Pantalla_0007_3": {
+      "__uuid__": "bc97b180-03b4-4266-a871-da92ae5e70c0"
+    },
+    "Idle-Pose-1°-Pantalla_0008_2": {
+      "__uuid__": "5c9400d3-fca7-414d-a40d-de0ff8aef2bb"
+    },
+    "Idle-Pose-1°-Pantalla_0009_1": {
+      "__uuid__": "5844e682-a770-4154-8a8e-faf9982f2990"
+    }
+  }
+}

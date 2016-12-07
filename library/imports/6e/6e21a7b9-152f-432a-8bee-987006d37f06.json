@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jump_Lateral-Left-Frame-11",
+    "texture": "e16aaf16-9e1c-4f62-b34b-c780ae215b39",
+    "atlas": "2fc33d10-2250-49f1-a98a-eedbe468434d",
+    "rect": [
+      530,
+      525,
+      265,
+      175
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      265,
+      175
+    ]
+  }
+}

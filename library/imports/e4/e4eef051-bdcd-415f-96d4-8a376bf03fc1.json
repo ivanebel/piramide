@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PIRAMIDE_CAVERNA_09_Mascaras_09",
+    "texture": "62a46c06-ce32-41dc-afb5-47ee6c962a90",
+    "atlas": "",
+    "rect": [
+      0,
+      1077,
+      1908,
+      633
+    ],
+    "offset": [
+      -6,
+      -232.5
+    ],
+    "originalSize": [
+      1920,
+      2322
+    ]
+  }
+}

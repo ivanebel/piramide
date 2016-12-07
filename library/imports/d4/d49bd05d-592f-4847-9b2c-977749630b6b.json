@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Doble_o_Nada_Render_Titulo_GLOW",
+    "texture": "6ae79ea9-3e19-420f-8af2-323a3c4f1453",
+    "atlas": "",
+    "rect": [
+      296,
+      332,
+      1314,
+      295
+    ],
+    "offset": [
+      -7,
+      60.5
+    ],
+    "originalSize": [
+      1920,
+      1080
+    ]
+  }
+}

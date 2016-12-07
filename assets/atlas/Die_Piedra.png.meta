@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5bed034c-6f6d-4250-a366-9dcf7fbc8921",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Die_Piedra": {
+      "ver": "1.0.3",
+      "uuid": "5b3709b2-dc1a-4eb7-b8e1-eaf5e2973e66",
+      "rawTextureUuid": "5bed034c-6f6d-4250-a366-9dcf7fbc8921",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -0.5,
+      "trimX": 14,
+      "trimY": 7,
+      "width": 1776,
+      "height": 704,
+      "rawWidth": 1802,
+      "rawHeight": 717,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

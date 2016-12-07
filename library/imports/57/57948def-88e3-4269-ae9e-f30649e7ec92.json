@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SaltoCilindro",
+    "texture": "857e2823-be54-47b3-9e88-6625ff421e15",
+    "atlas": "",
+    "rect": [
+      32,
+      67,
+      1623,
+      2435
+    ],
+    "offset": [
+      -8.5,
+      -33.5
+    ],
+    "originalSize": [
+      1704,
+      2502
+    ]
+  }
+}

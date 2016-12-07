@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_MascaraCOMP_03_FLAT_0003_plumas-Frente_Cut",
+    "texture": "37f769ef-ecf2-4651-ba55-9cf180ba64dc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      987,
+      462
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      987,
+      462
+    ]
+  }
+}

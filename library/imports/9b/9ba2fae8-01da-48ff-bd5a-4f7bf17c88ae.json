@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Botones_UI-03",
+    "texture": "36b40675-8d03-4423-8c2f-b0acacad8148",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      1919,
+      1075
+    ],
+    "offset": [
+      -0.5,
+      1.5
+    ],
+    "originalSize": [
+      1920,
+      1080
+    ]
+  }
+}

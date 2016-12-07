@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_MascaraCOMP_Test_0005_Luz-Antorchas",
+    "texture": "3a0ca622-afe7-4494-9af2-2e8abfba384b",
+    "atlas": "",
+    "rect": [
+      231,
+      27,
+      314,
+      593
+    ],
+    "offset": [
+      -572,
+      216.5
+    ],
+    "originalSize": [
+      1920,
+      1080
+    ]
+  }
+}

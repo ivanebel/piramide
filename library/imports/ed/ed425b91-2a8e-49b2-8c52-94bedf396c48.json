@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Objetos_Roll_Bird_SinFondo_01",
+    "texture": "ee0e1e2b-da25-475e-87a7-d885beae0d7b",
+    "atlas": "",
+    "rect": [
+      49,
+      55,
+      886,
+      761
+    ],
+    "offset": [
+      3,
+      -1.5
+    ],
+    "originalSize": [
+      978,
+      868
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "boxTicket.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Bonus": {
+      "__uuid__": "4dd6e920-1c5c-48b4-b190-cbbecaf89a53"
+    },
+    "Trampa": {
+      "__uuid__": "b774dd92-4b5f-4cb3-800e-da51f13b3709"
+    },
+    "Vacio": {
+      "__uuid__": "531268f9-e23f-407a-8f37-625fbb665bbf"
+    }
+  }
+}

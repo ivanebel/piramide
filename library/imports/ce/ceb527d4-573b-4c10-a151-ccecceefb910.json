@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Inside_Mascara_Prueba_Gimp",
+    "texture": "4c73d637-fbb4-4d77-aee1-a6f75edc6b9c",
+    "atlas": "",
+    "rect": [
+      24,
+      302,
+      439,
+      362
+    ],
+    "offset": [
+      -716.5,
+      -109
+    ],
+    "originalSize": [
+      1920,
+      748
+    ]
+  }
+}

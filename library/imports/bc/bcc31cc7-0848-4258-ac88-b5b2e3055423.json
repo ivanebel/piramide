@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "InsideJumpLSide",
+    "texture": "8966d6cc-08bf-495d-bf52-f1910c5a5de7",
+    "atlas": "",
+    "rect": [
+      68,
+      69,
+      1654,
+      1112
+    ],
+    "offset": [
+      2.5,
+      -10
+    ],
+    "originalSize": [
+      1785,
+      1230
+    ]
+  }
+}

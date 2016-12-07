@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Outside_bg",
+    "texture": "cb9c3e5a-f66d-4a42-9f2f-cf8fd09439b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1920,
+      1875
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      1875
+    ]
+  }
+}

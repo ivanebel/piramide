@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GlowPulse",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 200
+        },
+        {
+          "frame": 0.48,
+          "value": 80
+        },
+        {
+          "frame": 1,
+          "value": 200
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.48,
+          "value": 0.8
+        },
+        {
+          "frame": 1,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.48,
+          "value": 0.8
+        },
+        {
+          "frame": 1,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

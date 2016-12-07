@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bonusMaskIn",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            1074
+          ],
+          "motionPath": [
+            [
+              0,
+              822,
+              0,
+              966,
+              0,
+              534
+            ]
+          ],
+          "curve": "cubicOut"
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            0,
+            100
+          ],
+          "motionPath": [],
+          "curve": "cubicOut"
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": [
+            0,
+            180
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.5
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 0.7
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0.5
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.5
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 0.7
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0.5
+        }
+      ]
+    }
+  },
+  "events": []
+}

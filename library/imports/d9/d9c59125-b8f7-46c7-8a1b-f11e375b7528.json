@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_MascaraCOMP_03_FLAT_0008_Boca-MAscara_cut",
+    "texture": "9cee00d7-b85b-4db7-8b56-f8e020ad8194",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      564,
+      236
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      564,
+      236
+    ]
+  }
+}

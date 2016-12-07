@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PIRAMIDE_CAVERNA_05_Fondo_Base_Glow_LAVA_Superior_05_Cut",
+    "texture": "cdae9eec-bcb2-49c9-9871-b9ba80b84794",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1079,
+      494
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      1081,
+      495
+    ]
+  }
+}

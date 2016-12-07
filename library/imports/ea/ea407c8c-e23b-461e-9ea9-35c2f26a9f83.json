@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Inside_bg_PNG8",
+    "texture": "5fe715ea-8bae-431f-9fb4-d94aec50d645",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1920,
+      2322
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      2322
+    ]
+  }
+}

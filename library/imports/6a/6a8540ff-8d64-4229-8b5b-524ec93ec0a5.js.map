@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;;KAWX;;;AAGD,UAAM,EAAE,kBAAY,EAEnB;;AAED,QAAI,EAAC,cAAC,IAAI,EAAE;AACR,YAAI,CAAC,IAAI,GAAG,IAAI,CAAC;AACjB,YAAI,CAAC,QAAQ,GAAG,IAAI,CAAC,IAAI,CAAC,YAAY,CAAC,UAAU,CAAC,CAAC;AACnD,YAAI,CAAC,QAAQ,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;;KAE5B;;AAED,cAAU,EAAC,sBAAG;;AAEV,YAAI,CAAC,QAAQ,CAAC,UAAU,EAAE,CAAC;;AAE3B,YAAI,CAAC,IAAI,CAAC,cAAc,CAAC,MAAM,CAAC,CAAC,YAAY,CAAC,EAAE,CAAC,SAAS,CAAC,CAAC,IAAI,CAAC,aAAa,CAAC,CAAC;KAEnF;;AAED,cAAU,EAAC,sBAAG;AACV,YAAI,CAAC,QAAQ,CAAC,UAAU,EAAE,CAAC;AAC3B,YAAI,CAAC,IAAI,CAAC,cAAc,CAAC,MAAM,CAAC,CAAC,YAAY,CAAC,EAAE,CAAC,SAAS,CAAC,CAAC,IAAI,CAAC,aAAa,CAAC,CAAC;KACnF;;CAOJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // foo: {\r\n        //    default: null,      // The default value will be used only when the component attaching\r\n        //                           to a node for the first time\r\n        //    url: cc.Texture2D,  // optional, default is typeof default\r\n        //    serializable: true, // optional, default is true\r\n        //    visible: true,      // optional, default is true\r\n        //    displayName: 'Foo', // optional\r\n        //    readonly: false,    // optional, default is false\r\n        // },\r\n        // ...\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n\r\n    },\r\n\r\n    init (game) {\r\n        this.game = game;\r\n        this.subScene = this.node.getComponent('SubScene');\r\n        this.subScene.init(game);\r\n        //this.hide();\r\n    },\r\n\r\n    showScreen () {\r\n        \r\n        this.subScene.showScreen();\r\n        //console.log('clip...')\r\n        this.node.getChildByName('clip').getComponent(cc.Animation).play('transInside');\r\n        \r\n    },\r\n\r\n    hideScreen () {\r\n        this.subScene.hideScreen();\r\n        this.node.getChildByName('clip').getComponent(cc.Animation).stop('transInside');\r\n    },\r\n\r\n\r\n    // called every frame, uncomment this function to activate update callback\r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\n"
+  ]
+}

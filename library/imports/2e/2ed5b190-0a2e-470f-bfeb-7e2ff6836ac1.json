@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_MascaraCOMP_03_FLAT_0007_Dientes-Inf_Cup",
+    "texture": "090dac0c-fae7-499a-bbb3-e26af582ec57",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      594,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      594,
+      120
+    ]
+  }
+}

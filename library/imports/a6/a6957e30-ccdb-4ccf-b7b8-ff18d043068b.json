@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_MascaraCOMP_03_FLAT_0001_glow-ojos-Mascara_Cut",
+    "texture": "c3c5bfd7-d70f-4755-a8dd-7cf2921c8df8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      439,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      439,
+      101
+    ]
+  }
+}

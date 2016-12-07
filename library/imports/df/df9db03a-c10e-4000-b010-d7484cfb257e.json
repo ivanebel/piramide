@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InsideJumpDownLeft.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00000": {
+      "__uuid__": "a3a0c7be-c91b-4713-b306-d3b1309b8feb"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00001": {
+      "__uuid__": "3cc1ff6c-a485-429d-84d0-7b2f0fb6d393"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00002": {
+      "__uuid__": "42a46f34-f637-4d08-9012-fdf106964e01"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00003": {
+      "__uuid__": "0ec2e06c-eab5-4ac9-b8e5-f17c2abaa878"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00004": {
+      "__uuid__": "160f0e56-8de9-40ef-8cf1-1d25374801f2"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00005": {
+      "__uuid__": "cd17ee4d-0abd-4408-8473-f02e90d379e0"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00006": {
+      "__uuid__": "dcaa4b5e-7be0-4c6d-9eac-42d5fbba0926"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00007": {
+      "__uuid__": "d4a3eeeb-e061-45b4-a02c-182f889a6163"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00008": {
+      "__uuid__": "61f8d9f6-3da8-430b-856e-0c98a1b055a1"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00009": {
+      "__uuid__": "d92a7e9d-5d3a-498c-aee5-73efea448281"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00010": {
+      "__uuid__": "7bcb3af6-f30f-453d-954f-86de5fbe549d"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00011": {
+      "__uuid__": "b20ff755-ba3a-4dc9-ba76-499fe0f0173c"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00012": {
+      "__uuid__": "fe91ea1e-950b-44f3-8333-6b7901e64adb"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00013": {
+      "__uuid__": "0d2e9319-e41d-4326-855d-3ce4a5e44291"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00014": {
+      "__uuid__": "7d93107a-3770-418b-a32b-b4ee3e36b0cb"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00015": {
+      "__uuid__": "9a4a9359-73a3-436c-8198-599bb4e06c08"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00016": {
+      "__uuid__": "310cdabb-4f75-4d7d-a59e-a73427bcf3dc"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00017": {
+      "__uuid__": "7e3fa55e-88fd-4606-9f28-381895fee48b"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00018": {
+      "__uuid__": "2abcece3-a5cf-4026-be12-230d8b64a4ae"
+    },
+    "PIRAMIDE_CAVERNA_01_Explorador_Salto_DESCENDENTE_VERSION_02_BU_00000_00019": {
+      "__uuid__": "ec3ec826-b343-4ccd-bf08-85ec1a66febf"
+    }
+  }
+}

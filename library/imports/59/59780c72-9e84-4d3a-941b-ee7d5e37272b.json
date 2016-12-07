@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Explorador Frente Caverna",
+    "texture": "f8e84ef5-3c02-4e7c-9deb-18f947c2156a",
+    "atlas": "",
+    "rect": [
+      8,
+      6,
+      89,
+      130
+    ],
+    "offset": [
+      1,
+      0.5
+    ],
+    "originalSize": [
+      103,
+      143
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.Piramide",
+  "startScene": "60615115-1a9b-422a-ae99-0b59f6ef4b3c",
+  "title": "Piramide",
+  "webOrientation": "landscape"
+}

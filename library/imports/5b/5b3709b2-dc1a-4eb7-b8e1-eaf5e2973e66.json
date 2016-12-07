@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Die_Piedra",
+    "texture": "5bed034c-6f6d-4250-a366-9dcf7fbc8921",
+    "atlas": "",
+    "rect": [
+      14,
+      7,
+      1776,
+      704
+    ],
+    "offset": [
+      1,
+      -0.5
+    ],
+    "originalSize": [
+      1802,
+      717
+    ]
+  }
+}

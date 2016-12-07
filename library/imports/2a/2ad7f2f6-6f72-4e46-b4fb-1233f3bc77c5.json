@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PIRAMIDE_CAVERNA_03_Fondo_Base_LAVA_03_Cut",
+    "texture": "1047d3d0-68ba-4dc6-821b-5f4ce9bea7f4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1068,
+      488
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1068,
+      488
+    ]
+  }
+}

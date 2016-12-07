@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boxTicket",
+    "texture": "a497e174-7cd7-47be-9edc-8f33c3190442",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      25
+    ]
+  }
+}

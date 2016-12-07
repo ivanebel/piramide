@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DIE_Pantalla_3_00009",
+    "texture": "e595df36-e3f3-486f-89e1-9b0d0b6225ac",
+    "atlas": "2621859f-2bbc-495c-aa16-5f18f2f1e57d",
+    "rect": [
+      1278,
+      0,
+      142,
+      318
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      142,
+      318
+    ]
+  }
+}

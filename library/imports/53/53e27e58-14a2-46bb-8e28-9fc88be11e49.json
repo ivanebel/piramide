@@ -1,0 +1,119 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ExplorerOutsideIdleL.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Idle-Pose-1°-Pantalla_0000_10_00000": {
+      "__uuid__": "01cfba2f-0195-4677-b85a-9256b0d7eebc"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00001": {
+      "__uuid__": "4368b6e7-1789-4c85-bd1c-7793ae477aed"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00002": {
+      "__uuid__": "9496a654-6868-4495-a301-8f74a3681da2"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00003": {
+      "__uuid__": "12269b63-a028-4b2e-97d7-41454807d33f"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00004": {
+      "__uuid__": "22e91cbb-5986-4cb6-bdb7-a8cda0d76a25"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00005": {
+      "__uuid__": "d60bbeda-6b29-47c0-a413-03608e67e1b7"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00006": {
+      "__uuid__": "64d54ab3-9752-4607-9ed1-1a035783a5c7"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00007": {
+      "__uuid__": "87454918-3627-4b75-947a-144504a55a4d"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00008": {
+      "__uuid__": "60dcf0f2-4e9f-41ce-89c3-e62faac4336d"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00009": {
+      "__uuid__": "3558ae32-e294-4419-b10b-36d92b3219b4"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00010": {
+      "__uuid__": "c815b198-0dd1-4e26-a4dd-264f1596f6e9"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00011": {
+      "__uuid__": "a75d140d-376f-4663-a450-4a6c85b2664c"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00012": {
+      "__uuid__": "029f013d-47e3-4403-99b4-1acb467d279d"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00013": {
+      "__uuid__": "0b8e5840-3fa0-4374-b12e-c00d31d7de53"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00014": {
+      "__uuid__": "91fd0522-fb7d-4cda-bced-7e8a76368d2b"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00015": {
+      "__uuid__": "bc1b26fa-3243-403b-a1bf-12024d41f155"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00016": {
+      "__uuid__": "2fab88d8-58ad-4f31-ab93-61fb2185ff5c"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00017": {
+      "__uuid__": "da38e576-a603-4ab2-b6c5-06651df5fe8c"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00018": {
+      "__uuid__": "9cb33c68-a261-46ba-b38d-2a8f9798e545"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00019": {
+      "__uuid__": "212514b6-df37-42c9-a664-4fe98216c76b"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00020": {
+      "__uuid__": "b8d6a8e4-8093-4b92-a1af-f46c714d45b4"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00021": {
+      "__uuid__": "c1073f96-6bca-4409-bf80-eb9189c91adf"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00022": {
+      "__uuid__": "dec31de2-4077-4bd3-85e7-42f44ee20647"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00023": {
+      "__uuid__": "e98b4c70-cdcb-4ec4-aeae-187dede30ffe"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00024": {
+      "__uuid__": "b8f33fbf-6800-4dfe-a9e9-ca5fd6fe6b68"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00025": {
+      "__uuid__": "7e3f1ef3-4e19-46bf-9fbb-d9989921d0a8"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00026": {
+      "__uuid__": "dda01ae1-1fec-424f-84b8-ac37b8732b80"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00027": {
+      "__uuid__": "42e3751d-ff8c-477e-8213-d4da56b0e83e"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00028": {
+      "__uuid__": "25a01105-91a1-4035-a47f-8bfff5290346"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00029": {
+      "__uuid__": "cf0c1732-d4d4-4783-be90-a81cba10a15f"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00030": {
+      "__uuid__": "6a5859d2-cbdb-438a-a1e9-ece49135e9b8"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00031": {
+      "__uuid__": "13adffa8-7def-4380-a824-d73307b6984b"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00032": {
+      "__uuid__": "24f597f1-c3e9-40ce-8da1-f0eae7ec7217"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00033": {
+      "__uuid__": "73830ad3-394b-4ddf-b6d7-99e6d4663da1"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00034": {
+      "__uuid__": "1d2678f8-d653-4183-9860-bdeff64175af"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00035": {
+      "__uuid__": "ae414a6e-d0c7-46e2-9454-1e28eb60b526"
+    },
+    "Idle-Pose-1°-Pantalla_0000_10_00036": {
+      "__uuid__": "0b62c434-5a5c-4d84-81af-bde9e2d016fb"
+    }
+  }
+}

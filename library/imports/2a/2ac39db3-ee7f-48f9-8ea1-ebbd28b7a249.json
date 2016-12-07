@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "fontGold",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-bitmap-font.fnt",
+    "fontGold.png"
+  ],
+  "texture": {
+    "__uuid__": "c2e96c9e-97f8-42f8-adfc-2f97322990d3"
+  },
+  "fontSize": 36
+}

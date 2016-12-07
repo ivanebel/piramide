@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Die_Piedra.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "L01": {
+      "__uuid__": "544afa59-a15f-47e2-96e3-4e14bd8c01ec"
+    },
+    "L02": {
+      "__uuid__": "6d8c84d3-20bb-4eef-b343-a9e88b3c630a"
+    },
+    "L03": {
+      "__uuid__": "74ddf64c-0bd5-452b-bcb9-266bfeac9600"
+    },
+    "L04": {
+      "__uuid__": "565a7467-82ac-490a-84c9-0fdb11ee119e"
+    },
+    "L05": {
+      "__uuid__": "5a52f3ce-865a-41b3-9a72-afcccdb89937"
+    },
+    "L06": {
+      "__uuid__": "f88fcc93-9a96-47b2-a725-9e31a14eb549"
+    },
+    "L07": {
+      "__uuid__": "bba2357c-ce1b-423d-af5a-182b31235731"
+    },
+    "L08": {
+      "__uuid__": "2c12e544-1489-4c19-ad8c-be174370066b"
+    },
+    "L09": {
+      "__uuid__": "6cad3b3c-3505-4a06-85cf-48240bc5cb4b"
+    },
+    "L10": {
+      "__uuid__": "b45ecf96-6695-4690-b498-11dbc1c9c0ff"
+    },
+    "L11": {
+      "__uuid__": "46405aa7-b432-4362-a82b-550373344922"
+    },
+    "L12": {
+      "__uuid__": "d2e9fc6f-9ca3-4f3c-919b-b0a458a76cc4"
+    },
+    "L13": {
+      "__uuid__": "d243265c-c175-4fe0-aa57-7229ab9975f6"
+    },
+    "L14": {
+      "__uuid__": "ffd283b1-ce07-4b20-820b-7ae7e800b1a5"
+    },
+    "L15": {
+      "__uuid__": "e7442f5d-399b-4d69-acd8-9e49296744bc"
+    },
+    "L16": {
+      "__uuid__": "c20fb261-dc09-4642-bdd4-7a69d2c7fdfa"
+    },
+    "L17": {
+      "__uuid__": "62ed79ae-57d4-4db4-823f-264bc353942c"
+    }
+  }
+}

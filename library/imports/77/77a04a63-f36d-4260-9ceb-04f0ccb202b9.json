@@ -1,0 +1,161 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Angel.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Sepientes-Laterales-Piramide-01-Recovered_0013_Frame-100": {
+      "__uuid__": "4732a142-162a-48f1-98c3-443a81a0bcb8"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0015_Frame-98": {
+      "__uuid__": "586cd393-5984-4609-a6d1-41df1933420f"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0017_Frame-96": {
+      "__uuid__": "eb8eb7ae-a50e-469c-854d-e133b6f489dc"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0019_Frame-94": {
+      "__uuid__": "a3d750e2-429b-47ff-b5d7-2935c9699e11"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0021_Frame-92": {
+      "__uuid__": "3030b447-b15d-42b3-a7ce-d9a4321c758d"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0023_Frame-90": {
+      "__uuid__": "f032d466-1889-4423-b5db-59aa36d08b5c"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0025_Frame-88": {
+      "__uuid__": "1a8d74e4-8d2d-4442-83d6-e9860a816c92"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0027_Frame-86": {
+      "__uuid__": "2707c154-7e81-401b-a5dd-28563b2ddc8c"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0029_Frame-84": {
+      "__uuid__": "75861a31-f9f2-4e02-bcc7-fd7f9b0b5585"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0031_Frame-82": {
+      "__uuid__": "c60aea86-b719-428e-aa16-ecef48e60e60"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0033_Frame-80": {
+      "__uuid__": "aca7feff-e431-4ff7-90a7-cef700dcb164"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0035_Frame-78": {
+      "__uuid__": "69ddbd8d-8263-479e-8b1a-624b91587670"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0037_Frame-76": {
+      "__uuid__": "982759b2-60d3-461f-8fcf-deeac753870d"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0039_Frame-74": {
+      "__uuid__": "2cf8026e-70d8-4a51-8d1f-a2a1f4cb0726"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0041_Frame-72": {
+      "__uuid__": "83a314da-454e-4ea0-876e-2296603f0f13"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0043_Frame-70": {
+      "__uuid__": "236b3b3f-8e5a-4783-98e3-bac1eeaff6ee"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0045_Frame-68": {
+      "__uuid__": "a1c35efd-72b7-4e8e-97e4-8583e5ca8931"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0047_Frame-66": {
+      "__uuid__": "54d89225-6c39-49f8-9190-5eb3b0a3549e"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0049_Frame-64": {
+      "__uuid__": "fcb673ab-a781-4df5-83aa-0d7b5fb9cc4e"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0051_Frame-62": {
+      "__uuid__": "84ede0bc-3a03-4dce-8d1f-6898b781615f"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0053_Frame-60": {
+      "__uuid__": "a96a2705-17e6-42c9-98a7-2ae6a5d9e30a"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0055_Frame-58": {
+      "__uuid__": "33083ea1-b89d-41c1-b1c6-2a73e087006c"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0057_Frame-56": {
+      "__uuid__": "d7fdf6fe-4ad0-4964-bc1e-6b8f3a16cafd"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0059_Frame-54": {
+      "__uuid__": "389cecf9-bf1e-4301-8659-bb5f120294d1"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0061_Frame-52": {
+      "__uuid__": "39dfc9a6-5086-4ab9-9215-8086c3dbb51a"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0063_Frame-50": {
+      "__uuid__": "4ae95df8-a648-415e-8d6c-91a8a14562a9"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0065_Frame-48": {
+      "__uuid__": "8f9a2a2e-f2a6-4d1b-b9b9-9f88d58a4f81"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0067_Frame-46": {
+      "__uuid__": "60c73c35-f1c9-4125-a077-feab3a9540ac"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0069_Frame-44": {
+      "__uuid__": "a4d65f63-465e-4ee9-8847-bbda177a52a3"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0071_Frame-42": {
+      "__uuid__": "c74237dc-3d78-4789-84cc-a139e0b10c72"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0073_Frame-40": {
+      "__uuid__": "26726b78-39d8-43dc-8784-b36c943ce6cc"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0075_Frame-38": {
+      "__uuid__": "95d0bf03-5793-41c4-8dbf-b931053be95d"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0077_Frame-36": {
+      "__uuid__": "c0170074-4661-4be7-b419-a1bbfc8a7cb9"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0079_Frame-34": {
+      "__uuid__": "e674132f-af13-49fd-b654-e859b9a218b2"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0081_Frame-32": {
+      "__uuid__": "61ac6121-d528-4e54-92d3-135fa88701c8"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0083_Frame-30": {
+      "__uuid__": "57f912d5-7373-43c4-aa52-cb1845e969b1"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0085_Frame-28": {
+      "__uuid__": "d9d49ff3-9428-4b6b-8121-415d3afae0bd"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0087_Frame-26": {
+      "__uuid__": "1bea8a9b-3523-4e19-9609-78209373fb0a"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0089_Frame-24": {
+      "__uuid__": "13bef7cb-82ac-496d-865e-87ff734a339e"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0091_Frame-22": {
+      "__uuid__": "053ac008-a48b-40bf-9af2-dc675df22cb3"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0093_Frame-20": {
+      "__uuid__": "398837c2-7d64-4363-ba51-87fd4f772491"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0095_Frame-18": {
+      "__uuid__": "80e23662-2ef3-4995-8eb1-b57970389120"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0097_Frame-16": {
+      "__uuid__": "4bae4e3b-4748-4419-9a3e-964e1f88ab4b"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0099_Frame-14": {
+      "__uuid__": "b7933331-0845-4e9d-b8f4-dfaaf4d45d8d"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0101_Frame-12": {
+      "__uuid__": "61068567-ab90-4c75-ad2d-0fdd7f92f6a8"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0103_Frame-10": {
+      "__uuid__": "0c0be309-5830-4d96-a14f-f94d691a19fe"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0105_Frame-8": {
+      "__uuid__": "5979bc41-be30-4e03-ad8b-6d9d166d1aaa"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0107_Frame-6": {
+      "__uuid__": "a16e2736-027f-4ab7-9a39-8da78bfb3d84"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0109_Frame-4": {
+      "__uuid__": "79ada7e3-ecc4-49a9-885b-08062dcab51a"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0111_Frame-2": {
+      "__uuid__": "23651c7a-86ab-4ec4-9cf7-3ab97c3154b5"
+    },
+    "Sepientes-Laterales-Piramide-01-Recovered_0113_Frame-0": {
+      "__uuid__": "19021c4b-0f9a-474c-b832-bc5d7c0ef766"
+    }
+  }
+}

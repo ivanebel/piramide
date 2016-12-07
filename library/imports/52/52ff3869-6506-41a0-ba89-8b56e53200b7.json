@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_MascaraCOMP_03_FLAT_0000_Mascara",
+    "texture": "0ec4463e-4ca7-4d1a-bc6f-6895ae7dd340",
+    "atlas": "",
+    "rect": [
+      500,
+      0,
+      912,
+      1062
+    ],
+    "offset": [
+      -4,
+      9
+    ],
+    "originalSize": [
+      1920,
+      1080
+    ]
+  }
+}

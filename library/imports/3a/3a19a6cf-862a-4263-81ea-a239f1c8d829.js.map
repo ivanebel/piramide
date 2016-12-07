@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;;AAWR,gBAAQ,EAAE,IAAI;AACd,UAAE,EAAE,CAAC,CAAC;AACN,mBAAW,EAAE,EAAE,CAAC,SAAS;;KAE5B;;;AAGD,UAAM,EAAE,kBAAY;;AAEhB,YAAI,IAAI,GAAG,IAAI,CAAC;AAChB,YAAI,CAAC,IAAI,CAAC,EAAE,CAAE,EAAE,CAAC,IAAI,CAAC,SAAS,CAAC,SAAS,EAAE,UAAW,KAAK,EAAG;AAC1D,gBAAI,CAAC,OAAO,EAAE,CAAC;AACf,mBAAO,CAAC,GAAG,CAAE,sBAAsB,GAAG,IAAI,CAAC,EAAE,CAAE,CAAC;SACnD,CAAC,CAAC;KAEN;;AAED,QAAI,EAAC,cAAE,QAAQ,EAAE,GAAG,EAAG;AACnB,YAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;AACzB,YAAI,CAAC,EAAE,GAAG,GAAG,CAAC;KACjB;;AAED,WAAO,EAAC,mBAAG;;AAEP,YAAI,IAAI,CAAC,QAAQ,CAAC,cAAc,KAAK,IAAI,EAAE;AACvC,cAAE,CAAC,WAAW,CAAC,UAAU,CAAC,IAAI,CAAC,WAAW,CAAC,CAAC;AAC5C,gBAAI,CAAC,QAAQ,CAAC,eAAe,CAAE,IAAI,CAAC,EAAE,CAAE,CAAC;SAC5C;KACJ;;CAOJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // foo: {\r\n        //    default: null,      // The default value will be used only when the component attaching\r\n        //                           to a node for the first time\r\n        //    url: cc.Texture2D,  // optional, default is typeof default\r\n        //    serializable: true, // optional, default is true\r\n        //    visible: true,      // optional, default is true\r\n        //    displayName: 'Foo', // optional\r\n        //    readonly: false,    // optional, default is false\r\n        // },\r\n        // ...\r\n        _manager: null,\r\n        id: -1,\r\n        audio_touch: cc.AudioClip,        \r\n\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n\r\n        var self = this;\r\n        this.node.on( cc.Node.EventType.TOUCH_END, function ( event ) {\r\n            self.doTouch();\r\n            console.log( 'touch objeto bonus: ' + self.id );\r\n        });\r\n        \r\n    },\r\n\r\n    init ( gManager, aId ) {\r\n        this._manager = gManager;\r\n        this.id = aId;\r\n    },\r\n    \r\n    doTouch () {\r\n\r\n        if (this._manager._waitUserInput === true) { \r\n            cc.audioEngine.playEffect(this.audio_touch);\r\n            this._manager.userBonusChoice( this.id );\r\n        }\r\n    },\r\n    \r\n    \r\n    // called every frame, uncomment this function to activate update callback\r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\n"
+  ]
+}

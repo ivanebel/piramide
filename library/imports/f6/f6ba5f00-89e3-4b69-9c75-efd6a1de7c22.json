@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Outside_bg_RIOT",
+    "texture": "7b8d8a71-9970-4f7a-ba16-4975afb203e5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1920,
+      1875
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      1875
+    ]
+  }
+}

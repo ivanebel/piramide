@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_MascaraCOMP_Test_0002_sombra",
+    "texture": "d4ea80c4-e202-437f-be47-78043a9755b7",
+    "atlas": "",
+    "rect": [
+      268,
+      531,
+      1376,
+      484
+    ],
+    "offset": [
+      -4,
+      -233
+    ],
+    "originalSize": [
+      1920,
+      1080
+    ]
+  }
+}

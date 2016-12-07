@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_MascaraCOMP_03_FLAT_0005_plumas-Posteriores_cut",
+    "texture": "23920165-5cb2-4130-82c2-aced28e523bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      817,
+      499
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      817,
+      499
+    ]
+  }
+}

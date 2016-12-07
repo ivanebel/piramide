@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PIRAMIDE_CAVERNA_09_Mascaras_IZQ_Prueba",
+    "texture": "bbed1f88-6dd9-4e43-a54e-5fd4b82d79b5",
+    "atlas": "",
+    "rect": [
+      194,
+      1538,
+      230,
+      135
+    ],
+    "offset": [
+      -651,
+      -444.5
+    ],
+    "originalSize": [
+      1920,
+      2322
+    ]
+  }
+}

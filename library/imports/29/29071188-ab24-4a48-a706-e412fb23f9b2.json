@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "SaltoCilindro.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Layer-01": {
+      "__uuid__": "08d76fc9-f8de-46c8-a531-ae64f90e8007"
+    },
+    "Layer-02": {
+      "__uuid__": "b784ed78-e438-44b5-8cc5-424483985a35"
+    },
+    "Layer-03": {
+      "__uuid__": "df75e3ea-b451-403f-a4aa-e669ff8622a0"
+    },
+    "Layer-04": {
+      "__uuid__": "ddf6a159-4ead-4a58-bb5b-4f95280348d0"
+    },
+    "Layer-05": {
+      "__uuid__": "4448fa32-205f-4344-a57a-0c8ad2de5b23"
+    },
+    "Layer-06": {
+      "__uuid__": "713e1223-9226-4876-bfba-cfcbb5b6732c"
+    },
+    "Layer-07": {
+      "__uuid__": "92c79a16-6ac2-4a4d-bc8a-e08786556d07"
+    },
+    "Layer-08": {
+      "__uuid__": "f01c11ed-05a5-4b93-8b2c-ea72a773b98c"
+    },
+    "Layer-09": {
+      "__uuid__": "e1c4031f-1eb7-49b5-8a54-5ef98e521fc5"
+    },
+    "Layer-10": {
+      "__uuid__": "8c4013b5-3b5e-44f3-8aa1-bb90ce42cfb7"
+    },
+    "Layer-11": {
+      "__uuid__": "4a7b88a1-ba4b-4e28-b78f-cfe012a915ea"
+    },
+    "Layer-12": {
+      "__uuid__": "4818aee5-fcad-4142-b476-6d99a84e6474"
+    },
+    "Layer-13": {
+      "__uuid__": "406d5787-482b-4d87-987e-e65506814062"
+    },
+    "Layer-14": {
+      "__uuid__": "fbfd686d-79c4-4f68-836d-b1702a683749"
+    },
+    "Layer-15": {
+      "__uuid__": "99efae7f-5f61-4495-876b-f99b323879f6"
+    },
+    "Layer-16": {
+      "__uuid__": "0f4edd60-e84f-4e6a-bed9-79b7440ca0f3"
+    }
+  }
+}

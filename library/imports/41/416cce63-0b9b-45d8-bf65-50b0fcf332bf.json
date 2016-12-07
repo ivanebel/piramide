@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Objetos_Roll_Lizard_SinFondo_01",
+    "texture": "2234af63-356d-4850-a721-998b5c19f293",
+    "atlas": "",
+    "rect": [
+      76,
+      50,
+      827,
+      762
+    ],
+    "offset": [
+      0.5,
+      3
+    ],
+    "originalSize": [
+      978,
+      868
+    ]
+  }
+}

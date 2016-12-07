@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "OutsideJumpHole.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Salto_Hole_01_00000": {
+      "__uuid__": "833601ad-f2c5-420e-8018-d94c4356e9d9"
+    },
+    "Salto_Hole_01_00001": {
+      "__uuid__": "46402431-3650-463f-83bb-46ea14a3355f"
+    },
+    "Salto_Hole_01_00002": {
+      "__uuid__": "c4772d70-56fb-4cdc-8191-7b981747fbfc"
+    },
+    "Salto_Hole_01_00003": {
+      "__uuid__": "1b2cc41e-05e6-4fd0-b4e8-759f70eb6e72"
+    },
+    "Salto_Hole_01_00004": {
+      "__uuid__": "cff6c247-88a6-491e-a0a4-11182c53fd5d"
+    },
+    "Salto_Hole_01_00005": {
+      "__uuid__": "04125653-71e7-41a5-8679-170676668431"
+    },
+    "Salto_Hole_01_00006": {
+      "__uuid__": "618186b1-3647-442f-8ea9-638b327f0306"
+    },
+    "Salto_Hole_01_00007": {
+      "__uuid__": "c7ee4732-b07d-4357-92e9-22812cb11720"
+    },
+    "Salto_Hole_01_00008": {
+      "__uuid__": "69c59691-4a83-43ca-ade1-f9f87d1744b9"
+    },
+    "Salto_Hole_01_00009": {
+      "__uuid__": "b38d0380-eac3-4d42-8c2f-8f5e4bee92ae"
+    },
+    "Salto_Hole_01_00010": {
+      "__uuid__": "6712a6aa-86fe-4c71-a023-c20e55af2606"
+    },
+    "Salto_Hole_01_00011": {
+      "__uuid__": "9d6265a5-2ea5-41ae-83f8-51a7963fe4a7"
+    },
+    "Salto_Hole_01_00012": {
+      "__uuid__": "8c3cae6c-1227-4a54-aad9-0d8ac3225753"
+    },
+    "Salto_Hole_01_00013": {
+      "__uuid__": "da0b12b7-f71b-47e5-8223-db77f4cb843c"
+    },
+    "Salto_Hole_01_00014": {
+      "__uuid__": "f341e637-9369-4ee4-8b75-9e683071fc39"
+    },
+    "Salto_Hole_01_00015": {
+      "__uuid__": "fbebf9f1-84cd-4aa7-a271-49a7c07292f5"
+    },
+    "Salto_Hole_01_00016": {
+      "__uuid__": "e8d45c9c-28ea-4245-87f4-388396ea487b"
+    },
+    "Salto_Hole_01_00017": {
+      "__uuid__": "d162ba0e-73a1-443b-9b37-b2ea0d5e10ca"
+    },
+    "Salto_Hole_01_00018": {
+      "__uuid__": "904cb3de-fbed-40d9-be3b-9ec4849c0a5e"
+    },
+    "Salto_Hole_01_00019": {
+      "__uuid__": "4bea2799-e4a3-4e88-af77-35450c9f21bb"
+    },
+    "Salto_Hole_01_00020": {
+      "__uuid__": "05cbf656-5275-47fb-82ff-9779a3106079"
+    },
+    "Salto_Hole_01_00021": {
+      "__uuid__": "96b9b5a8-f552-4586-97ef-bd9392ee99ce"
+    },
+    "Salto_Hole_01_00022": {
+      "__uuid__": "a123217f-6c2b-488b-b50c-335aa242039d"
+    },
+    "Salto_Hole_01_00023": {
+      "__uuid__": "10a7db28-a7b1-4329-87ba-fa15185f03f1"
+    },
+    "Salto_Hole_01_00024": {
+      "__uuid__": "5b62fa65-a7ce-46b9-8a44-7c66cbe671cd"
+    },
+    "Salto_Hole_01_00025": {
+      "__uuid__": "aa47e9bf-21e4-43d4-996d-80915478eb2a"
+    }
+  }
+}

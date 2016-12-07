@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Coin_Box",
+    "texture": "da244a45-7bea-4023-b988-578596d0968e",
+    "atlas": "",
+    "rect": [
+      10,
+      0,
+      1622,
+      743
+    ],
+    "offset": [
+      5,
+      152.5
+    ],
+    "originalSize": [
+      1632,
+      1048
+    ]
+  }
+}

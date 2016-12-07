@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "DieArrow.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "DIE_Pantalla_3_00000": {
+      "__uuid__": "9d692eb0-afff-4c3c-895b-8463607af5da"
+    },
+    "DIE_Pantalla_3_00001": {
+      "__uuid__": "004ecc7c-6826-4f4b-a9f4-2365fe88469e"
+    },
+    "DIE_Pantalla_3_00002": {
+      "__uuid__": "530081b1-3123-4b52-b186-6d84081462a3"
+    },
+    "DIE_Pantalla_3_00003": {
+      "__uuid__": "89a92962-8ff6-4c49-957a-c809a80b2e93"
+    },
+    "DIE_Pantalla_3_00004": {
+      "__uuid__": "4e013a68-b3bc-4cd9-947c-03a8df6894a1"
+    },
+    "DIE_Pantalla_3_00005": {
+      "__uuid__": "16f74ade-afd8-492a-bd2f-9590beeff379"
+    },
+    "DIE_Pantalla_3_00006": {
+      "__uuid__": "58ffc6b4-2c63-47ad-bacf-ea5660ae26ae"
+    },
+    "DIE_Pantalla_3_00007": {
+      "__uuid__": "30fb2325-ba0b-4001-80b3-08ca6cfcd010"
+    },
+    "DIE_Pantalla_3_00008": {
+      "__uuid__": "fd247c32-6a9e-4436-9009-acf40760f008"
+    },
+    "DIE_Pantalla_3_00009": {
+      "__uuid__": "beba8f96-8c5b-4643-b428-9da69d9fc1c5"
+    },
+    "DIE_Pantalla_3_00010": {
+      "__uuid__": "3add1f67-a273-4e4b-a444-855b64f40491"
+    },
+    "DIE_Pantalla_3_00011": {
+      "__uuid__": "4a8d6264-cc96-4d4d-bc26-bca96e84562a"
+    },
+    "DIE_Pantalla_3_00012": {
+      "__uuid__": "340c3775-ba78-4aa4-a5bf-57286cde6dc8"
+    },
+    "DIE_Pantalla_3_00013": {
+      "__uuid__": "c57b2ae5-4daa-4d59-a0ac-5d5a48600678"
+    },
+    "DIE_Pantalla_3_00014": {
+      "__uuid__": "0efab4b0-3995-4d0b-810e-891ae2f48923"
+    },
+    "DIE_Pantalla_3_00015": {
+      "__uuid__": "ff7436e2-2db7-4877-9af8-56c42ef52d59"
+    },
+    "DIE_Pantalla_3_00016": {
+      "__uuid__": "1069f60a-d58a-4e9a-8b09-dffb0015f140"
+    },
+    "DIE_Pantalla_3_00017": {
+      "__uuid__": "8764e565-42b9-4a8b-a664-e1d872fe4890"
+    },
+    "DIE_Pantalla_3_00018": {
+      "__uuid__": "6a6983fc-7e32-4b35-811d-d4dbc4ce79f0"
+    },
+    "DIE_Pantalla_3_00019": {
+      "__uuid__": "3a15c4d9-564d-48ce-93c3-1e35fe40542b"
+    },
+    "DIE_Pantalla_3_00020": {
+      "__uuid__": "b1c9b81f-068b-495d-aa5f-407f3b3a0db7"
+    },
+    "DIE_Pantalla_3_00021": {
+      "__uuid__": "98ec9423-df32-4d0f-8283-2a07e1e78330"
+    }
+  }
+}

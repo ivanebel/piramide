@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PIRAMIDE_CAVERNA_Referencia_Ubicacion_Objetos",
+    "texture": "162ca1cc-d2e4-4e3b-a7a5-4787dbf98d89",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1920,
+      2322
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      2322
+    ]
+  }
+}

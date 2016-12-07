@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pantalla_Subida_Piramide_01",
+    "texture": "5c6228ff-bacd-4a53-9fbe-dc3e3bcacdca",
+    "atlas": "",
+    "rect": [
+      21,
+      192,
+      1899,
+      2095
+    ],
+    "offset": [
+      10.5,
+      -96
+    ],
+    "originalSize": [
+      1920,
+      2287
+    ]
+  }
+}

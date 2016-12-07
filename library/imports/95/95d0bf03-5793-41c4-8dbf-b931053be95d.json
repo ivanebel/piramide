@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sepientes-Laterales-Piramide-01-Recovered_0075_Frame-38",
+    "texture": "cdc73688-b7d9-4ca2-b9c3-53d4627cb8a0",
+    "atlas": "77a04a63-f36d-4260-9ceb-04f0ccb202b9",
+    "rect": [
+      2795,
+      1560,
+      559,
+      780
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      559,
+      780
+    ]
+  }
+}

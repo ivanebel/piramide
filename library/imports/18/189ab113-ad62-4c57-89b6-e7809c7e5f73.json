@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Explosion.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Explosion_Die_01_Done_00000": {
+      "__uuid__": "95ae7cfd-77f5-45bf-a42d-0a039e6981d2"
+    },
+    "Explosion_Die_01_Done_00001": {
+      "__uuid__": "d8c252d6-f6d5-4be6-800f-b3fe9ad05b7a"
+    },
+    "Explosion_Die_01_Done_00002": {
+      "__uuid__": "82198523-1d07-487a-97b5-36f0114cbc17"
+    },
+    "Explosion_Die_01_Done_00003": {
+      "__uuid__": "d510d636-f845-4ed5-949f-b696f5a1f86b"
+    },
+    "Explosion_Die_01_Done_00004": {
+      "__uuid__": "7dd2679c-4642-48c0-af61-14658211e92b"
+    },
+    "Explosion_Die_01_Done_00005": {
+      "__uuid__": "52866bdf-79ca-4f86-b40b-0e267d9a3e3f"
+    },
+    "Explosion_Die_01_Done_00006": {
+      "__uuid__": "bb22e511-01b8-4750-b9fb-6db909a8091a"
+    },
+    "Explosion_Die_01_Done_00007": {
+      "__uuid__": "7652e89a-4ac9-4ce9-94a9-bf7442652d33"
+    },
+    "Explosion_Die_01_Done_00008": {
+      "__uuid__": "03b751ee-60a5-48bb-a473-ca76ff3148df"
+    },
+    "Explosion_Die_01_Done_00009": {
+      "__uuid__": "1da86078-2ffc-44c5-8b72-e9eef8e8c9d6"
+    },
+    "Explosion_Die_01_Done_00010": {
+      "__uuid__": "e11ab311-40b0-4d96-a32e-f71c06fe35b9"
+    },
+    "Explosion_Die_01_Done_00011": {
+      "__uuid__": "cf9bf756-12cf-4f7d-b2de-3e7367920155"
+    },
+    "Explosion_Die_01_Done_00012": {
+      "__uuid__": "6bb9760d-e0eb-4740-8b88-a2e18b6c1b2f"
+    },
+    "Explosion_Die_01_Done_00013": {
+      "__uuid__": "4a0364e0-e3b1-45f0-9e3e-5df7cc0b8e43"
+    },
+    "Explosion_Die_01_Done_00014": {
+      "__uuid__": "b0804524-c6c8-4225-90e3-42c4e68f5722"
+    },
+    "Explosion_Die_01_Done_00015": {
+      "__uuid__": "72f07301-8da8-48ec-80ea-0eaadea6276d"
+    },
+    "Explosion_Die_01_Done_00016": {
+      "__uuid__": "45e1085e-d680-4f36-bbed-35d78655e15e"
+    },
+    "Explosion_Die_01_Done_00017": {
+      "__uuid__": "33e003ad-9c6a-4e3a-ac5e-21c599cc601d"
+    },
+    "Explosion_Die_01_Done_00018": {
+      "__uuid__": "b24e2d0d-8484-456e-8913-9e8956ee1d52"
+    },
+    "Explosion_Die_01_Done_00019": {
+      "__uuid__": "34d616b1-c8ca-43c0-aa25-dde21b32e452"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DieArrow",
+    "texture": "e595df36-e3f3-486f-89e1-9b0d0b6225ac",
+    "atlas": "",
+    "rect": [
+      0,
+      77,
+      1561,
+      434
+    ],
+    "offset": [
+      -0.5,
+      24
+    ],
+    "originalSize": [
+      1562,
+      636
+    ]
+  }
+}

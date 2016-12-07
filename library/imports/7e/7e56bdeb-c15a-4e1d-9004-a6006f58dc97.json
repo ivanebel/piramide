@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pantalla_Subida_Dientes_Superiores_01_Cut",
+    "texture": "43dd2070-bae7-4710-a0ac-1848e66445a3",
+    "atlas": "",
+    "rect": [
+      12,
+      13,
+      711,
+      299
+    ],
+    "offset": [
+      0.5,
+      -3.5
+    ],
+    "originalSize": [
+      734,
+      318
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BonusCorner",
+    "texture": "818ffbed-6086-4c4c-bd4f-afd5aa7d603a",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      1955,
+      433
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      1955,
+      436
+    ]
+  }
+}

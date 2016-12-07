@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InsideJumpRSide.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Comp 1_00000": {
+      "__uuid__": "e56c950e-d26a-4d5a-9140-8e8538011044"
+    },
+    "Comp 1_00001": {
+      "__uuid__": "3335967c-78f5-4ec9-8762-78eee7ec614e"
+    },
+    "Comp 1_00002": {
+      "__uuid__": "88c40255-8443-4788-8a4c-46a14efbf74a"
+    },
+    "Comp 1_00003": {
+      "__uuid__": "ef48128f-137b-47ab-b70b-5c60d8df3763"
+    },
+    "Comp 1_00004": {
+      "__uuid__": "3d566db6-638c-4cd3-9d83-05493458f3c7"
+    },
+    "Comp 1_00005": {
+      "__uuid__": "0ecca50d-06e2-41ab-9144-c9c049f168fb"
+    },
+    "Comp 1_00006": {
+      "__uuid__": "c2627755-3b0d-4c61-8d2d-55966c21ac4d"
+    },
+    "Comp 1_00007": {
+      "__uuid__": "1a13ff66-0863-44f9-b598-88ee0d4ad9dc"
+    },
+    "Comp 1_00008": {
+      "__uuid__": "52430258-c21c-4a83-973c-a4d243738e18"
+    },
+    "Comp 1_00009": {
+      "__uuid__": "96e94a3b-2c72-45f9-b76c-aaa2eb426f55"
+    },
+    "Comp 1_00010": {
+      "__uuid__": "e60b4a20-6d76-4c40-a276-6e71884fc7d5"
+    },
+    "Comp 1_00011": {
+      "__uuid__": "34ce2a1d-a14b-429c-85ce-bafa953cd531"
+    },
+    "Comp 1_00012": {
+      "__uuid__": "c8df6cff-4c04-4c19-9c63-88cf610b9c3d"
+    },
+    "Comp 1_00013": {
+      "__uuid__": "823a55db-8a5d-40aa-8ad6-7fb98b207d37"
+    },
+    "Comp 1_00014": {
+      "__uuid__": "78b3b456-1b49-4b1b-92d5-7ea10a4b0c41"
+    },
+    "Comp 1_00015": {
+      "__uuid__": "cdf05d44-a57a-4643-b5ae-fe54fbbae52b"
+    },
+    "Comp 1_00016": {
+      "__uuid__": "59afdfec-200c-4abe-a3a4-cac6322ecdad"
+    },
+    "Comp 1_00017": {
+      "__uuid__": "816c7d7b-0190-4a6f-aae6-46ea3d1acebb"
+    },
+    "Comp 1_00018": {
+      "__uuid__": "afb500a2-2653-475f-9ff2-ee33ff67424b"
+    },
+    "Comp 1_00019": {
+      "__uuid__": "365c3e2f-6b0b-47f8-ad0c-8403b22bb39e"
+    },
+    "Comp 1_00020": {
+      "__uuid__": "c8f5a853-91b3-41d3-8a9b-444cca2ee0f1"
+    },
+    "Comp 1_00021": {
+      "__uuid__": "41d61f19-3c2c-4d29-9559-477488c51d12"
+    },
+    "Comp 1_00022": {
+      "__uuid__": "5927e7f5-3c2b-4354-a888-1181c5287bfc"
+    },
+    "Comp 1_00023": {
+      "__uuid__": "af3a2e3b-9ef0-4f6f-b05e-7b8fb2af15be"
+    },
+    "Comp 1_00024": {
+      "__uuid__": "8a8d1d95-bcbe-405d-a03a-4022425597ce"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "OutsideJumpHole",
+    "texture": "fcf37b45-d3fb-4ada-9ec2-a17302168c94",
+    "atlas": "",
+    "rect": [
+      10,
+      195,
+      1837,
+      795
+    ],
+    "offset": [
+      -3,
+      -81
+    ],
+    "originalSize": [
+      1863,
+      1023
+    ]
+  }
+}

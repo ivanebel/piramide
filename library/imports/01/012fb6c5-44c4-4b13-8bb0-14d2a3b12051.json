@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pantalla_Subida_Mascara_01_Cut",
+    "texture": "906f3d09-cd3e-4bd0-a794-9ae1d8c5f08c",
+    "atlas": "",
+    "rect": [
+      27,
+      0,
+      1288,
+      901
+    ],
+    "offset": [
+      8.5,
+      4
+    ],
+    "originalSize": [
+      1325,
+      909
+    ]
+  }
+}

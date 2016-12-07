@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pantalla_Subida_Bloques_Con_Piedras_01",
+    "texture": "8e614068-a245-48c9-82f4-a9442acb798f",
+    "atlas": "",
+    "rect": [
+      72,
+      12,
+      1742,
+      822
+    ],
+    "offset": [
+      -17,
+      9.5
+    ],
+    "originalSize": [
+      1920,
+      865
+    ]
+  }
+}
