@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "192b33d3-1e11-48b3-9cdd-12c43418292b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Explorador Espalda": {
+      "ver": "1.0.3",
+      "uuid": "6ccce7e9-311f-4e0b-89b7-71a7867c0e78",
+      "rawTextureUuid": "192b33d3-1e11-48b3-9cdd-12c43418292b",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 115,
+      "height": 154,
+      "rawWidth": 115,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

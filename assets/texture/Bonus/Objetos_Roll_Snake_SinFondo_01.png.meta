@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d7ff9a60-8b7b-4b73-8551-c20df663e9fa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Objetos_Roll_Snake_SinFondo_01": {
+      "ver": "1.0.3",
+      "uuid": "740259e7-225c-43ba-a82f-bfaf3f589f2e",
+      "rawTextureUuid": "d7ff9a60-8b7b-4b73-8551-c20df663e9fa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 32.5,
+      "offsetY": -4.5,
+      "trimX": 241,
+      "trimY": 83,
+      "width": 561,
+      "height": 711,
+      "rawWidth": 978,
+      "rawHeight": 868,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

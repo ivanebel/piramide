@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "37f769ef-ecf2-4651-ba55-9cf180ba64dc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_03_FLAT_0003_plumas-Frente_Cut": {
+      "ver": "1.0.3",
+      "uuid": "a16486ca-30a5-40ff-95a5-1f864e77b875",
+      "rawTextureUuid": "37f769ef-ecf2-4651-ba55-9cf180ba64dc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 987,
+      "height": 462,
+      "rawWidth": 987,
+      "rawHeight": 462,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

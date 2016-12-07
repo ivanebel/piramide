@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "88b429bc-cb37-49f0-af09-6cb2c62c24c5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "PIRAMIDE_CAVERNA_Animacion_Cilindro_Capa_2": {
+      "ver": "1.0.3",
+      "uuid": "952cf5d1-cb2e-4ffb-a237-a799729a1b18",
+      "rawTextureUuid": "88b429bc-cb37-49f0-af09-6cb2c62c24c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 328,
+      "height": 195,
+      "rawWidth": 328,
+      "rawHeight": 195,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

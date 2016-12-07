@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "23920165-5cb2-4130-82c2-aced28e523bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_03_FLAT_0005_plumas-Posteriores_cut": {
+      "ver": "1.0.3",
+      "uuid": "bbcf6465-773a-4dea-a5af-afb2a60eb48e",
+      "rawTextureUuid": "23920165-5cb2-4130-82c2-aced28e523bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 817,
+      "height": 499,
+      "rawWidth": 817,
+      "rawHeight": 499,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

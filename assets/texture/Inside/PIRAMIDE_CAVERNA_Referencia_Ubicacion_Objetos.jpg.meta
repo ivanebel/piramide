@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "162ca1cc-d2e4-4e3b-a7a5-4787dbf98d89",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "PIRAMIDE_CAVERNA_Referencia_Ubicacion_Objetos": {
+      "ver": "1.0.3",
+      "uuid": "b5968a73-c332-47f6-a22d-7a4b36450d78",
+      "rawTextureUuid": "162ca1cc-d2e4-4e3b-a7a5-4787dbf98d89",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 2322,
+      "rawWidth": 1920,
+      "rawHeight": 2322,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

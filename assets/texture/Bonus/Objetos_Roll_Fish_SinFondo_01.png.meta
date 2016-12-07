@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "eea596f3-4b58-4b1c-9e9c-3f3be079ef35",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Objetos_Roll_Fish_SinFondo_01": {
+      "ver": "1.0.3",
+      "uuid": "51d6133b-3579-45d5-bb0d-f38f687f8f43",
+      "rawTextureUuid": "eea596f3-4b58-4b1c-9e9c-3f3be079ef35",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 14,
+      "offsetY": -14,
+      "trimX": 136,
+      "trimY": 101,
+      "width": 734,
+      "height": 694,
+      "rawWidth": 978,
+      "rawHeight": 868,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

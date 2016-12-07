@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0ec4463e-4ca7-4d1a-bc6f-6895ae7dd340",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_03_FLAT_0000_Mascara": {
+      "ver": "1.0.3",
+      "uuid": "52ff3869-6506-41a0-ba89-8b56e53200b7",
+      "rawTextureUuid": "0ec4463e-4ca7-4d1a-bc6f-6895ae7dd340",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": 9,
+      "trimX": 500,
+      "trimY": 0,
+      "width": 912,
+      "height": 1062,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

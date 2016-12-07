@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1402dba0-9cb1-4691-b7a6-fdd060e5ab39",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "PIRAMIDE_CAVERNA_06_Bloques_06_Cut": {
+      "ver": "1.0.3",
+      "uuid": "462a9893-4360-4d5e-bf11-74cae60ccedf",
+      "rawTextureUuid": "1402dba0-9cb1-4691-b7a6-fdd060e5ab39",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 728,
+      "height": 1141,
+      "rawWidth": 728,
+      "rawHeight": 1141,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

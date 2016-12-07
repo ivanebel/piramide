@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "14140635-cebb-4703-a623-c40a300802ce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "PIRAMIDE_CAVERNA_01_Fondo_Base_01_0000_Layer-1": {
+      "ver": "1.0.3",
+      "uuid": "013852d5-4963-48c6-8521-11c04f4bcb7e",
+      "rawTextureUuid": "14140635-cebb-4703-a623-c40a300802ce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -687,
+      "offsetY": -434.5,
+      "trimX": 178,
+      "trimY": 1547,
+      "width": 190,
+      "height": 97,
+      "rawWidth": 1920,
+      "rawHeight": 2322,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

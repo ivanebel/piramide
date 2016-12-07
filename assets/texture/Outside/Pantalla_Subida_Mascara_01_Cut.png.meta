@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "906f3d09-cd3e-4bd0-a794-9ae1d8c5f08c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Pantalla_Subida_Mascara_01_Cut": {
+      "ver": "1.0.3",
+      "uuid": "012fb6c5-44c4-4b13-8bb0-14d2a3b12051",
+      "rawTextureUuid": "906f3d09-cd3e-4bd0-a794-9ae1d8c5f08c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 8.5,
+      "offsetY": 4,
+      "trimX": 27,
+      "trimY": 0,
+      "width": 1288,
+      "height": 901,
+      "rawWidth": 1325,
+      "rawHeight": 909,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

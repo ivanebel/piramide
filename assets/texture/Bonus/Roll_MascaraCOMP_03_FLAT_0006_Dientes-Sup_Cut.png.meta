@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e0dc9d71-5afd-4fea-a46e-d5646f327295",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_03_FLAT_0006_Dientes-Sup_Cut": {
+      "ver": "1.0.3",
+      "uuid": "df5c13b1-734c-46a3-ba67-cfd2be559504",
+      "rawTextureUuid": "e0dc9d71-5afd-4fea-a46e-d5646f327295",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 589,
+      "height": 110,
+      "rawWidth": 589,
+      "rawHeight": 110,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

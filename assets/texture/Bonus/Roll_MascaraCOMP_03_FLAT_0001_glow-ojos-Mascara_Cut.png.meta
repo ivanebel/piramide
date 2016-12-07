@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c3c5bfd7-d70f-4755-a8dd-7cf2921c8df8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_03_FLAT_0001_glow-ojos-Mascara_Cut": {
+      "ver": "1.0.3",
+      "uuid": "a6957e30-ccdb-4ccf-b7b8-ff18d043068b",
+      "rawTextureUuid": "c3c5bfd7-d70f-4755-a8dd-7cf2921c8df8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 439,
+      "height": 101,
+      "rawWidth": 439,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

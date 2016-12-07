@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ad26e7f1-973f-4f91-bdfa-bf7c7150a80c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Pantalla_Subida_03_0014_15": {
+      "ver": "1.0.3",
+      "uuid": "ec2dd4cd-0065-4368-944f-f7a50d0a878f",
+      "rawTextureUuid": "ad26e7f1-973f-4f91-bdfa-bf7c7150a80c",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1044,
+      "height": 444,
+      "rawWidth": 1044,
+      "rawHeight": 444,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

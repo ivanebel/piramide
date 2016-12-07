@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "700c5d3d-d255-4071-8a67-93af9423ad72",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Caida-cilindro_MotionBlur_0000_1_00029": {
+      "ver": "1.0.3",
+      "uuid": "51a0a4c5-d3cc-4a15-8b54-8d3c55f390ac",
+      "rawTextureUuid": "700c5d3d-d255-4071-8a67-93af9423ad72",
+      "trimType": "auto",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 255,
+      "height": 1032,
+      "rawWidth": 255,
+      "rawHeight": 1032,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

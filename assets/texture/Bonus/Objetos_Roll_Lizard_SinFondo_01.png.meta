@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2234af63-356d-4850-a721-998b5c19f293",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Objetos_Roll_Lizard_SinFondo_01": {
+      "ver": "1.0.3",
+      "uuid": "416cce63-0b9b-45d8-bf65-50b0fcf332bf",
+      "rawTextureUuid": "2234af63-356d-4850-a721-998b5c19f293",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 3,
+      "trimX": 76,
+      "trimY": 50,
+      "width": 827,
+      "height": 762,
+      "rawWidth": 978,
+      "rawHeight": 868,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

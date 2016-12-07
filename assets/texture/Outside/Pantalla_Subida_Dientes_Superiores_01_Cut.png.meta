@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "43dd2070-bae7-4710-a0ac-1848e66445a3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Pantalla_Subida_Dientes_Superiores_01_Cut": {
+      "ver": "1.0.3",
+      "uuid": "7e56bdeb-c15a-4e1d-9004-a6006f58dc97",
+      "rawTextureUuid": "43dd2070-bae7-4710-a0ac-1848e66445a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -3.5,
+      "trimX": 12,
+      "trimY": 13,
+      "width": 711,
+      "height": 299,
+      "rawWidth": 734,
+      "rawHeight": 318,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

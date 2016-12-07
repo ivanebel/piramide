@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e4de5e27-3d17-4545-8151-60930610df89",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_Test_0006_Layer-1_cut": {
+      "ver": "1.0.3",
+      "uuid": "f63549cc-9b23-4447-aa96-c47cfe862587",
+      "rawTextureUuid": "e4de5e27-3d17-4545-8151-60930610df89",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 707,
+      "height": 208,
+      "rawWidth": 707,
+      "rawHeight": 208,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

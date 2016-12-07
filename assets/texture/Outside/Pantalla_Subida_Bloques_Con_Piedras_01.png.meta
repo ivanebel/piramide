@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8e614068-a245-48c9-82f4-a9442acb798f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Pantalla_Subida_Bloques_Con_Piedras_01": {
+      "ver": "1.0.3",
+      "uuid": "d1674cd5-c55a-4a34-9d53-1e7abdd2578b",
+      "rawTextureUuid": "8e614068-a245-48c9-82f4-a9442acb798f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -17,
+      "offsetY": 9.5,
+      "trimX": 72,
+      "trimY": 12,
+      "width": 1742,
+      "height": 822,
+      "rawWidth": 1920,
+      "rawHeight": 865,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

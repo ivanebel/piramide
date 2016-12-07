@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ee0e1e2b-da25-475e-87a7-d885beae0d7b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Objetos_Roll_Bird_SinFondo_01": {
+      "ver": "1.0.3",
+      "uuid": "ed425b91-2a8e-49b2-8c52-94bedf396c48",
+      "rawTextureUuid": "ee0e1e2b-da25-475e-87a7-d885beae0d7b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": -1.5,
+      "trimX": 49,
+      "trimY": 55,
+      "width": 886,
+      "height": 761,
+      "rawWidth": 978,
+      "rawHeight": 868,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

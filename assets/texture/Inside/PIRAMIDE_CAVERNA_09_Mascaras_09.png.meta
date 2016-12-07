@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "62a46c06-ce32-41dc-afb5-47ee6c962a90",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "PIRAMIDE_CAVERNA_09_Mascaras_09": {
+      "ver": "1.0.3",
+      "uuid": "e4eef051-bdcd-415f-96d4-8a376bf03fc1",
+      "rawTextureUuid": "62a46c06-ce32-41dc-afb5-47ee6c962a90",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": -232.5,
+      "trimX": 0,
+      "trimY": 1077,
+      "width": 1908,
+      "height": 633,
+      "rawWidth": 1920,
+      "rawHeight": 2322,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

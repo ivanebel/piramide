@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ff5cb894-5b8a-4c73-b32b-62ecc4abbc8a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_03_FLAT_0004_Glow-Plumas-posteriores_Cut": {
+      "ver": "1.0.3",
+      "uuid": "14b7b0b9-c805-431d-b8b7-7f70508492e1",
+      "rawTextureUuid": "ff5cb894-5b8a-4c73-b32b-62ecc4abbc8a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 521,
+      "height": 465,
+      "rawWidth": 529,
+      "rawHeight": 468,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

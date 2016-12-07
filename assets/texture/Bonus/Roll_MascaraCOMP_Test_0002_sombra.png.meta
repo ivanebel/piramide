@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d4ea80c4-e202-437f-be47-78043a9755b7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_Test_0002_sombra": {
+      "ver": "1.0.3",
+      "uuid": "0b3d4a9c-47ab-41e6-b728-9626acd0ec40",
+      "rawTextureUuid": "d4ea80c4-e202-437f-be47-78043a9755b7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -233,
+      "trimX": 268,
+      "trimY": 531,
+      "width": 1376,
+      "height": 484,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

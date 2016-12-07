@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e9bc7218-5183-42b9-abd6-48aa23f1fafe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_Test_0004_Luz-Antorchas-": {
+      "ver": "1.0.3",
+      "uuid": "5e39efce-7f67-423b-aa21-1fdb14232316",
+      "rawTextureUuid": "e9bc7218-5183-42b9-abd6-48aa23f1fafe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 551,
+      "offsetY": 212,
+      "trimX": 1354,
+      "trimY": 32,
+      "width": 314,
+      "height": 592,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

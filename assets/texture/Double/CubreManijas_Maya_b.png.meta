@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c488c31d-a6c6-45ce-9479-5feefde33512",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "CubreManijas_Maya_b": {
+      "ver": "1.0.3",
+      "uuid": "07f0ac97-31c1-4ecb-8c7f-a0aa82d242d7",
+      "rawTextureUuid": "c488c31d-a6c6-45ce-9479-5feefde33512",
+      "trimType": "auto",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

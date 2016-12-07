@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a4f126bb-76f1-4e63-92c2-964f480672d5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_03_FLAT_0002_Glow-Plumas-frente_Cut": {
+      "ver": "1.0.3",
+      "uuid": "aa7e8426-a9e2-4e9d-ac31-7ea22f5568c2",
+      "rawTextureUuid": "a4f126bb-76f1-4e63-92c2-964f480672d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 440,
+      "height": 339,
+      "rawWidth": 448,
+      "rawHeight": 343,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

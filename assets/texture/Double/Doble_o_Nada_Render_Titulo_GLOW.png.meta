@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6ae79ea9-3e19-420f-8af2-323a3c4f1453",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Doble_o_Nada_Render_Titulo_GLOW": {
+      "ver": "1.0.3",
+      "uuid": "d49bd05d-592f-4847-9b2c-977749630b6b",
+      "rawTextureUuid": "6ae79ea9-3e19-420f-8af2-323a3c4f1453",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7,
+      "offsetY": 60.5,
+      "trimX": 296,
+      "trimY": 332,
+      "width": 1314,
+      "height": 295,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

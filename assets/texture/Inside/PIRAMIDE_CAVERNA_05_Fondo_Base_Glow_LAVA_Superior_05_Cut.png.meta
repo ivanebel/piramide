@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cdae9eec-bcb2-49c9-9871-b9ba80b84794",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "PIRAMIDE_CAVERNA_05_Fondo_Base_Glow_LAVA_Superior_05_Cut": {
+      "ver": "1.0.3",
+      "uuid": "8fd860eb-fe62-4b40-b9be-e79c42e5b3ba",
+      "rawTextureUuid": "cdae9eec-bcb2-49c9-9871-b9ba80b84794",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1079,
+      "height": 494,
+      "rawWidth": 1081,
+      "rawHeight": 495,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9cee00d7-b85b-4db7-8b56-f8e020ad8194",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Roll_MascaraCOMP_03_FLAT_0008_Boca-MAscara_cut": {
+      "ver": "1.0.3",
+      "uuid": "d9c59125-b8f7-46c7-8a1b-f11e375b7528",
+      "rawTextureUuid": "9cee00d7-b85b-4db7-8b56-f8e020ad8194",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 564,
+      "height": 236,
+      "rawWidth": 564,
+      "rawHeight": 236,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5c6228ff-bacd-4a53-9fbe-dc3e3bcacdca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Pantalla_Subida_Piramide_01": {
+      "ver": "1.0.3",
+      "uuid": "5b9248ad-090a-49d2-bbfc-57a62f7cd351",
+      "rawTextureUuid": "5c6228ff-bacd-4a53-9fbe-dc3e3bcacdca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 10.5,
+      "offsetY": -96,
+      "trimX": 21,
+      "trimY": 192,
+      "width": 1899,
+      "height": 2095,
+      "rawWidth": 1920,
+      "rawHeight": 2287,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
